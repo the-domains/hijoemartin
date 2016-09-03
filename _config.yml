@@ -1,19 +1,4 @@
-name: HiJoeMartin
-favicon: null
-layout_spectrum: 0.3917586812749505
 typography_spectrum: 0.4746811520308256
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.41163514042273164
   saturation: 0.6425722392741591
   rhythmicContrast: 0.5217221139464527
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3917586812749505
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: HiJoeMartin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Joseph Martin
 purpose: []
