@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Joseph Martin
+  email: joe@martinchicago.com
+  url: 'http://www.MartinChicago.com'
+logo: null
 name: HiJoeMartin
 cta:
   domain: null
