@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-08-31T13:42:45.848Z'
+sourcePath: _posts/2016-08-26-saying-goodbye-to-a-design.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-26T16:05:07.299Z'
-dateModified: '2016-08-26T16:04:55.957Z'
-title: Saying Goodbye to a Design
 author: []
 via: {}
-authors: []
+dateModified: '2016-08-31T13:42:45.432Z'
+title: Saying Goodbye to a Design
 publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-26-saying-goodbye-to-a-design.md
 url: saying-goodbye-to-a-design/index.html
 _type: Article
 
